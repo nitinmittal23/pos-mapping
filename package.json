@@ -1,0 +1,34 @@
+{
+  "name": "pos-mapping",
+  "version": "1.0.0",
+  "description": "script to deploy contracts for mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinmittal23/pos-mapping.git"
+  },
+  "keywords": [
+    "mapping",
+    "pos",
+    "polygon",
+    "erc20",
+    "custom"
+  ],
+  "author": "nitinmittal23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitinmittal23/pos-mapping/issues"
+  },
+  "homepage": "https://github.com/nitinmittal23/pos-mapping#readme",
+  "dependencies": {
+    "@maticnetwork/meta": "^2.4.57",
+    "dotenv": "^16.3.1",
+    "esm": "^3.2.25",
+    "path": "^0.12.7",
+    "web3": "^1.7.0"
+  }
+}
