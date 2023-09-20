@@ -1,5 +1,7 @@
 # PoS Mappings
 
+![GitHub](https://img.shields.io/github/license/nitinmittal23/pos-mapping)
+
 ## Installation
 
 ```sh
