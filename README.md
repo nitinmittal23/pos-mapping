@@ -51,6 +51,6 @@ Mappings on mainnet is done via [multisig](https://etherscan.io/address/0x424bDE
 Steps:
 1. Add above multisig added in [gnosis](https://app.safe.global/apps?safe=eth:0x424bDE99FCfB68c5a1218fd3215caFfD031f19C4)
 2. Open [transaction Builder](https://app.safe.global/share/safe-app?appUrl=https%3A%2F%2Fapps-portal.safe.global%2Ftx-builder&chain=eth)
-3. Add the rootChainManager contract (Make sure that the ABI used is from [implementation](https://etherscan.io/address/0x536c55cFe4892E581806e10b38dFE8083551bd03) contract but the address used is [Proxy](https://etherscan.io/address/0x86E4Dc95c7FBdBf52e33D563BbDB00823894C287) contract).
+3. Add the rootChainManager contract (Make sure that the ABI used is from [implementation](https://etherscan.io/address/0x37D26DC2890b35924b40574BAc10552794771997) contract but the address used is [Proxy](https://etherscan.io/address/0xA0c68C638235ee32657e8f720a23ceC1bFc77C77) contract).
 4. Select `mapToken` and enter the details returned by the script and initiate transaction
 2. Mapping will be done when all the multisig owners sign the transaction and execute it.
